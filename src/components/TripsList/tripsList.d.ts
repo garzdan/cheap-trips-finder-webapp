@@ -1,0 +1,3 @@
+interface TripsListProps {
+  trips: Trip[];
+}

@@ -1,0 +1,3 @@
+interface TripCardProps {
+  trip: Trip,
+}

@@ -1,0 +1,3 @@
+interface AirportCardProps {
+  airport: Airport;
+}

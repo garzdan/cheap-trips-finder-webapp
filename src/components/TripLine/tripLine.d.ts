@@ -1,0 +1,3 @@
+interface TripLineProps {
+  stages: TripStage[];
+}

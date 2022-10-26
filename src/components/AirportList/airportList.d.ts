@@ -1,0 +1,3 @@
+interface AirportListProps {
+  airports: Airport[];
+}
