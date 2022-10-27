@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cheap-trips-finder-webapp/static/css/main.3539e31b.css",
+    "main.js": "/cheap-trips-finder-webapp/static/js/main.ebec4f3c.js",
+    "static/js/787.9868632d.chunk.js": "/cheap-trips-finder-webapp/static/js/787.9868632d.chunk.js",
+    "static/media/home-background.jpg": "/cheap-trips-finder-webapp/static/media/home-background.3d234ccac908c84c72d2.jpg",
+    "index.html": "/cheap-trips-finder-webapp/index.html",
+    "main.3539e31b.css.map": "/cheap-trips-finder-webapp/static/css/main.3539e31b.css.map",
+    "main.ebec4f3c.js.map": "/cheap-trips-finder-webapp/static/js/main.ebec4f3c.js.map",
+    "787.9868632d.chunk.js.map": "/cheap-trips-finder-webapp/static/js/787.9868632d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3539e31b.css",
+    "static/js/main.ebec4f3c.js"
+  ]
+}
